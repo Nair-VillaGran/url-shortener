@@ -37,5 +37,6 @@ Modify the environment variables in `.env`, `mongoURI` contains the database in 
 
 List of routes to navigate in the Api and perform GET, POST requests.
 
-* Show Accessible Photos : `GET /:code`
-* Create Photo : `POST /api/url/short`
+* Create a Short Url : `POST /api/url/short`
+* Redirects to root link : `GET /:code`
+
