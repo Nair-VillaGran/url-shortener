@@ -1,4 +1,4 @@
-# url-shortener
+# url-shortener 🔗
 Simple long url shortener Api created in Typescript, with database to store a history of links already generated and speed up the effectiveness.
 
 # Installation
